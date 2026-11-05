@@ -28,4 +28,4 @@ No tools, no MCP servers - just a system prompt and a base model, as described i
 
 Built for Pollinations quest [#19177](https://github.com/pollinations/pollinations/issues/19177).
 
-[![Pollinations](https://img.shields.io/badge/Powered%20by-Pollinations-black?logo=data:image/svg+xml;base64,)](https://pollinations.ai)
+[![Made with pollinations.ai](https://raw.githubusercontent.com/pollinations/pollinations/main/packages/ui/src/brand/badge-made-with.svg)](https://pollinations.ai/?ref=badge)
